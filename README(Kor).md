@@ -1,4 +1,3 @@
-**[English](README.md) | [한국어](README_ko.md)**
 
 # UIP 퍼즐과 달러 자산 적립 전략: 한미 시장 실증 분석 (2010–2026)
 
